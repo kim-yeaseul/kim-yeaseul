@@ -1,11 +1,10 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-yeaseul)](https://github.com/kim-yeaseul/github-readme-stats)
 
 <!--
 **kim-yeaseul/kim-yeaseul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yes__lee)](https://github.com/yes__lee/github-readme-stats)
 
 
 
